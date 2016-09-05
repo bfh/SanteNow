@@ -19,7 +19,7 @@
 - das Bett
 - die Bedurfnisse, das Wunsch
 
-Beispielsatz : *Als Pflegeperson brauche ich viele Zeit um meinen Patienten kümmern. Deswegen liebe ich den Idee, ihre Bedürfnisse im Voraus zu kennen.*
+Beispielsatz : *"Als Pflegeperson brauche ich viele Zeit um meinen Patienten kümmern. Deswegen liebe ich den Idee, ihre Bedürfnisse im Voraus zu kennen."*
 
 # User story n°2
 
@@ -32,7 +32,7 @@ Beispielsatz : *Als Pflegeperson brauche ich viele Zeit um meinen Patienten küm
 **Wie** : Der Patient wählt zwichen verschiedene Optionen. Alle Bedürfnissen von Patien sind inkludiert.
 Man auch dort schreiben können. Die Tachentur muss einfach bleiben.
 
-Beispielsatz : *Als Patient, finde ich manchmal die Wartezeit zu lang. Es gibt Wert für mich, schneller bedienst zu sein.*
+Beispielsatz : *"Als Patient, finde ich manchmal die Wartezeit zu lang. Es gibt Wert für mich, schneller bedienst zu sein."*
 
 # Team :
 
