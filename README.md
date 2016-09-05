@@ -1,6 +1,6 @@
 # Beschreibung :
 
-SanteNow ist in die Spitalenszimmern zwischen die Pflegeperson und der Patient der in Bett liegt über die Bildschrimen kontaktieren können. Dafür hat schnelle Bedienung und bessere Arbeit. Der Notfallsknopf ist nicht genüg : diese Lösung bringt mehr Flexibilität. Damit können die Pfelgepersonal besser einschatzen.
+SanteNow ist in die Spitalenszimmern zwischen die Pflegeperson und der Patient der in Bett liegt über die Bildschrimen kontaktieren können. Dafür hat schnelle Bedienung und effizienter Arbeit. Der Notfallsknopf ist nicht genügend : diese Lösung bringt mehr Flexibilität. Damit können die Pfelgepersonal ihrer Arbeit besser plannen.
 
 # Schwerpunkten :
 
