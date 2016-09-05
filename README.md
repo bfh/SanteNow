@@ -23,7 +23,7 @@ SanteNow ist in die Spitalenszimmern zwischen die Pflegeperson und der Patient d
 - das Bett
 - die Bedurfnisse, das Wunsch
 
-Beispielsatz : *"Als Pflegeperson möchte ich ein Signal von die Patienten. Ich brauche viele Zeit um meinen Patienten kümmern. Deswegen liebe ich den Idee, ihre Bedürfnisse im Voraus zu kennen."*
+Beispielsatz : *"Pflegeperson soll ein Signal von die Patienten bekommen. Normalerweise es nimmt viele Zeit, um ein Patient zu kümmern. Deswegen ist besser wenn man ein Smartphone hat und die Bedürfnissen über die eine Verbindung bekommen kann. Das machen wir mit einem Tablet (das hat der Patient) und mit einem Smartphone (das hat die Pflegeperson)"*
 
 # User story n°2
 
@@ -36,7 +36,7 @@ Beispielsatz : *"Als Pflegeperson möchte ich ein Signal von die Patienten. Ich 
 **Wie** : Der Patient wählt zwichen verschiedene Optionen. Alle Bedürfnissen von Patien sind inkludiert.
 Man auch dort schreiben können. Die Tachentur muss einfach bleiben.
 
-Beispielsatz : *"Als Patient, finde ich manchmal die Wartezeit zu lang. Es gibt Wert für mich, schneller bedienst zu sein."*
+Beispielsatz : *"Als Patient, finde ich manchmal die Wartezeit zu lang, ein Wassertrinke zu erhalten. Es gibt Wert für mich, schneller bedienst zu sein."*
 
 # Team :
 
