@@ -1,3 +1,7 @@
+# Beschreibung
+
+SanteNow ist im Spitalen zwischen die Pflegeperson und der Patient über die Bildschrimen kontaktieren können. Dafür hat schnelle Bedienung und bessere Arbeit.
+
 # Schwerpunkten :
 
 + UI/UX (grosse Tachen)
@@ -19,7 +23,7 @@
 - das Bett
 - die Bedurfnisse, das Wunsch
 
-Beispielsatz : *"Als Pflegeperson brauche ich viele Zeit um meinen Patienten kümmern. Deswegen liebe ich den Idee, ihre Bedürfnisse im Voraus zu kennen."*
+Beispielsatz : *"Als Pflegeperson möchte ich ein Signal von die Patienten. Ich brauche viele Zeit um meinen Patienten kümmern. Deswegen liebe ich den Idee, ihre Bedürfnisse im Voraus zu kennen."*
 
 # User story n°2
 
