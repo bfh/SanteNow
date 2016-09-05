@@ -20,11 +20,4 @@
 - Ein MindMap mit alle die wichtige Begriffen feststellen
 ..1. Server Teil
 ..2. Algorithmus Teil
-+
 
-#Milestones
-
-- Die Grafische Icons sind alles fertig
-- Der Program lauft korrekt (ohne wichtige Bugs)
-- Die Datei sind korrekt mitgeteilt
-- Eine Wartelist ist implementiert
