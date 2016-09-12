@@ -40,4 +40,4 @@ Beispielsatz : *"Als Patient, finde ich manchmal die Wartezeit zu lang, ein Wass
 
 # Team :
 
-*Berivan Özdemir & Nicolas Houriet*
+*Julian Rodriguez & Berivan Özdemir & Nicolas Houriet*
