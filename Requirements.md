@@ -1,23 +1,9 @@
-
-#Schwerpunkten :
-
-- UI/UX (grosse Tachen)
-- die Notfall Knopf System unabhangig behalten
-- wen informiert sein muss (nur die unbeschäftigte Leute oder auch alle die Leute)
-- von eine Hierarchie überlegen
-- eine Warteliste.
-
 #Requirements
 
-1. Java M für die Algorithmus
-2. Grafische Interface (Knopfe..)
-3. Netzwerke für Verbindung : WLAN nur, keine physische Verbindung
-
-#Issues
-
-- Über ein Logo überlegen
-- Ein Grosser Font nutzen, sodass die altere Leute einfach lesen können.
-- Ein MindMap mit alle die wichtige Begriffen feststellen
-..1. Server Teil
-..2. Algorithmus Teil
-
+0. HTML/CSS/Bootstrap Grundkenntnisse für das Interface
+1. MongoDB GrundKenntnisse für die Datenbank
+2. Meteo.js GrundKenntnisse für die allgemein Programmierung
+3. Ein Text Editor wie Sublime text 2
+4. Grafische Software wie The Gimp
+5. Netzwerke für Verbindung : WLAN nur, keine physische Verbindung
+6. Ein benutzer freundlich Kundenorientierung für die altere Leute
