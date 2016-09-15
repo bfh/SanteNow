@@ -1,4 +1,4 @@
-﻿# Beschreibung :
+# Beschreibung :
 
 SanteNow ist in den Spitalenszimmern zwischen die Pflegeperson und der Patient der in Bett liegt über die Bildschrimen kontaktieren können. Dafür hat schnelle Bedienung und effizienter Arbeit. Der Notfallsknopf ist nicht genügend : diese Lösung bringt mehr Flexibilität. Damit können die Pfelgepersonal ihrer Arbeit besser plannen.
 
@@ -40,4 +40,4 @@ Beispielsatz : *"Als Patient, finde ich manchmal die Wartezeit zu lang, ein Wass
 
 # Team :
 
-*Julian Rodriguez & Berivan Özdemir & Nicolas Houriet*
+*Julian Rodriguez & Berivan Özdemir & Nicolas Houriet, Michael Luggen*
