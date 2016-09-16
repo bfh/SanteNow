@@ -6,28 +6,47 @@
 		<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
 	</head>
 	<body>
-		<table>
-			<thead>
-				<tr>
-					<th style="float:left"><h1>19:00</h1><th>
-					<th style="float:right"><h3>Zimmer: 503<br>Bett: 3</h3><th>
-				</tr>
-			</thead>
-			<tbody>
-			<tr>
-				<td class="beduerfnis" style="background-color:red"><i class="fa fa-glass fa-5x" aria-hidden="true"></i><h2>Ich habe durst</h2></td>
-				<td class="beduerfnis" style="background-color:green"></td>
-				<td class="beduerfnis" style="background-color:blue"></td>
-			</tr>
-			<tr>
-				<td class="beduerfnis" style="background-color:yellow"></td>
-				<td class="beduerfnis" style="background-color:brown"></td>
-				<td class="beduerfnis" style="background-color:white"></td>
-			</tr>
-			</tbody>
-		</table>
+		<div id="alles">
+			<div id="headbar">
+				<div class="head" style="float:left"><h1><div id="clockbox"></div></h1></div>
+				<div class="head" style="float:right"><h3>Zimmer: 503<br>Bett: 3</h3></div>
+			</div>
+			<div id="body-bar">
+				<div class="beduerfnis" style="background-color:red">
+					<i class="fa fa-glass fa-5x" aria-hidden="true"></i><h2>Ich habe Durst</h2>
+				</div>
+				<div class="beduerfnis" style="background-color:green">
+					<i class="fa fa-medkit fa-5x" aria-hidden="true"></i><h2>Ich habe Schmerzen</h2>
+				</div>
+				<div class="beduerfnis" style="background-color:blue">
+					<i class="fa fa-bed fa-5x" aria-hidden="true"></i><h2>Hilfe beim Positionswechsel</h2>
+				</div>
+				<div class="beduerfnis" style="background-color:yellow">
+					<i class="fa fa-male fa-5x" aria-hidden="true"></i><i class="fa fa-female fa-5x" aria-hidden="true"></i><h2>Ich brauche Hilfe, um auf die Toilette zu gehen</h2>
+				</div>
+				<div class="beduerfnis" style="background-color:brown">
+					<i class="fa fa-leaf fa-5x" aria-hidden="true"></i><h2>Ich br&auml;uchte eine Vase f&uuml;r meine Blumen</h2>
+				</div>
+				<div class="beduerfnis" style="background-color:orange">
+					<i class="fa fa-info-circle fa-5x" aria-hidden="true"></i><h2>Ich m&ouml;chte Informationen haben</h2>
+				</div>
+			</div>
+		</div>
 	</body>
-
 </html>
 
-<i class="fa fa-camera-retro fa-2x"></i>
+<!-- JS-CODE FUER AKTUELLE ZEIT: -->
+<script type="text/javascript">
+	function GetClock(){
+	var d=new Date();
+	var nhour=d.getHours(),nmin=d.getMinutes();
+	if(nmin<=9) nmin="0"+nmin
+	
+	document.getElementById('clockbox').innerHTML=""+nhour+":"+nmin+"";
+	}
+
+	window.onload=function(){
+	GetClock();
+	setInterval(GetClock,1000);
+	}
+</script>
