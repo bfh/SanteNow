@@ -48,15 +48,7 @@ margin:auto;
 
 }
 
-.containerLine1 {
-
-margin-left:2%;
-margin-right:2%;
-display:block;
-
-}
-
-.containerLine2 {
+.containerLine1, .containerLine2 {
 
 margin-left:2%;
 margin-right:2%;
