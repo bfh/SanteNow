@@ -1,0 +1,130 @@
+* {
+
+font-weight: bold;
+font-family: serif;
+font-size: 100px;
+text-align:center;
+color:black;
+text-decoration: none;
+
+}
+
+#titel {
+
+margin-left:35%;
+width:30%;
+height:7%;
+border-radius:50%;
+box-shadow: 40px 30px 30px #3399FF;
+background-color: #66FFFF;
+text-shadow: 10px 10px 10px #3399FF;
+color:white;
+
+
+}
+
+h1 {
+
+text-align:center;
+padding-top:5%;
+position:relative;
+font-size:130px;
+font-family: cursive;;
+
+
+}
+
+body {
+
+background-repeat:no-repeat;
+background-attachment:fixed;
+
+}
+
+.container {
+
+padding-top:1%;
+margin:auto;
+
+}
+
+.containerLine1 {
+
+margin-left:2%;
+margin-right:2%;
+display:block;
+
+}
+
+.containerLine2 {
+
+margin-left:2%;
+margin-right:2%;
+display:block;
+
+}
+
+.square {
+
+border:black 9px solid;
+width:900px;
+height:700px;
+border-radius: 25px;
+background-color:#66FFCC;
+box-shadow: 20px 20px 30px grey;
+display: inline-block;
+text-decoration: none;
+margin-top:2%;
+margin-bottom:1%;
+margin-right:2%;
+
+}
+
+.foto {
+
+width:90%;
+height:65%;
+padding:5% 5% 1% 5%;
+
+}
+
+#square2, #square4 {
+
+	background-color:#CCCCCC;
+
+}
+
+.square h3, .nextPage h3 {
+	margin-top:0%;
+	position:relative;
+}
+
+.nextPage {
+
+width:900px;
+height:700px;
+display:inline-block;
+border:9px black solid;
+border-radius: 25px;
+background-color:#66FFCC;
+box-shadow: 20px 20px 30px grey;
+text-decoration: none;
+margin-top:2%;
+margin-bottom:1%;
+margin-right:2%
+
+}
+
+footer p {
+
+	font-family: sans-serif;
+	font-size: 60px;
+	font-style: italic;
+	color:#000099;
+
+}
+
+
+
+
+.
