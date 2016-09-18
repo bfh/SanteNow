@@ -72,6 +72,22 @@ margin-right:2%;
 
 }
 
+.square:hover, .nextPage:hover {
+
+	border:black 9px solid;
+	width:900px;
+	height:700px;
+	border-radius: 25px;
+	background-color:#66FFCC;
+	box-shadow:inset -27px -23px 81px -2px rgba(0,0,0,0.48);
+	display: inline-block;
+	text-decoration: none;
+	margin-top:2%;
+	margin-bottom:1%;
+	margin-right:2%;
+
+}
+
 .foto {
 
 width:90%;
