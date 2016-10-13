@@ -1,0 +1,53 @@
+/** {
+	border: 1px solid green;
+}*/
+
+h1 {
+	color: ffffff;
+}
+
+h2 {
+	color: ffffff;
+}
+
+h3 {
+	color: ffffff;
+}
+
+i {
+	color: ffffff;
+}
+
+body {
+	font-family: Verdana, sans-serif;
+}
+
+#alles {}
+
+#headbar {
+	height: 5em;
+	padding: 0 2em 0 2em;
+	margin: 2em;
+	background-color: 000000;
+	border-radius:1em;
+	vertical-align: middle;
+}
+
+.head{}
+
+#body-bar {
+	text-align: center;
+}
+
+.beduerfnis {
+	border-radius: 1em;
+	width: 20em;
+	height: 20em;
+	border: 2px solid #000000;
+	margin: 2em;
+	float: left;
+	text-align: center;
+	/*display: table-cell;
+	display: inline;*/
+	vertical-align: middle;
+	}
